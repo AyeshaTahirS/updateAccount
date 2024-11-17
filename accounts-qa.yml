@@ -1,0 +1,13 @@
+build:
+  version: 2.0
+
+account:
+  message: "Welcome to Accounts Service QA file system"
+  contactDetails:
+    name: "Eazy Bytes QA"
+    email: "tutor@eazybytes.com"
+    mobileNumber: "9345432123"
+  onCallSupport:
+    -090078601
+    -090078602
+    -090078603
