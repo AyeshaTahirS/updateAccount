@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 account:
-  message: "Welcome to Accounts Service Production GIT"
+  message: "Welcome to Accounts Service PRODUCTIONNNN GIT"
   contactDetails:
     name: "Eazy Bytes Prod"
     email: "{cipher}4c7a37e083b5d461534f0ffc7b710efce483f18fec53b26d3bf83852f7d9ef9bd4ee9d7a9f4b08e79b8e1bf8ed7dbe81"
