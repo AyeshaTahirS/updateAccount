@@ -1,7 +1,7 @@
 build:
 version: 1.0
 account:
-  message: "Welcome to Accounts Service"
+  message: "Welcome to Accounts Service git"
   contactDetails:
     name: "Eazy Bytes"
     email: "tutor@eazybytes.com"
