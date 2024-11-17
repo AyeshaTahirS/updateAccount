@@ -5,7 +5,7 @@ account:
   message: "Welcome to Accounts Service QA GIT"
   contactDetails:
     name: "Eazy Bytes QA"
-    email: "tutor@eazybytes.com"
+    email: "tutoratQA@eazybytes.com"
     mobileNumber: "9345432123"
   onCallSupport:
     -090078601
