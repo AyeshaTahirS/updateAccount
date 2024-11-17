@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 account:
-  message: "Welcome to Accounts Service Prod file system"
+  message: "Welcome to Accounts Service Prod git"
   contactDetails:
     name: "Eazy Bytes Prod"
     email: "tutor@eazybytes.com"
