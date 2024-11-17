@@ -5,7 +5,7 @@ account:
   message: "Welcome to Accounts Service Prod git"
   contactDetails:
     name: "Eazy Bytes Prod"
-    email: "tutor@eazybytes.com"
+    email: "4c7a37e083b5d461534f0ffc7b710efce483f18fec53b26d3bf83852f7d9ef9bd4ee9d7a9f4b08e79b8e1bf8ed7dbe81"
     mobileNumber: "9345432123"
   onCallSupport:
     -090078601
