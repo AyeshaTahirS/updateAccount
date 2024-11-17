@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 account:
-  message: "Welcome to Accounts Service QA file system"
+  message: "Welcome to Accounts Service QA GIT"
   contactDetails:
     name: "Eazy Bytes QA"
     email: "tutor@eazybytes.com"
